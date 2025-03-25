@@ -18,6 +18,6 @@ The dataset contains customer demographics and spending behavior:
 - **Spending Score (1-100)** (Customer behavior metric)
 
 ## Install Depenencies
-'''
+```
 pip install -r requirements.txt
-'''
+```
